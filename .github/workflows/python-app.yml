@@ -48,5 +48,5 @@ jobs:
         echo "You can open the above URL in your browser to test the SpiderFoot web UI."
         
         # Keep job alive for a while so you can access it
-        echo "Keeping runner alive for 30 minutes..."
-        sleep 1800
+        echo "Keeping runner alive..."
+        sleep 4400
