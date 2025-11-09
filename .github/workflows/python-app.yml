@@ -29,4 +29,4 @@ jobs:
         python -m pip install -r requirements.txt
     - name: Run with python
       run: |
-        python sf.py -l 0.0.0.0:5000
+        python sf.py -l 127.0.0.1:5001
