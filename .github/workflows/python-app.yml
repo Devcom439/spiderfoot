@@ -50,4 +50,4 @@ jobs:
         
         # Keep job alive for a while so you can access it
         echo "Keeping runner alive..."
-        sleep 5
+        sleep 900
